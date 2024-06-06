@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kEZQ7tqehdcNA6h6n+JeEwfNBvYTHZJ+dE2KcNOqBP4=",
+  "Source": "WebAPI_TwoFactor",
+  "BasePath": "_content/WebAPI_TwoFactor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
